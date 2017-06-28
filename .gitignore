@@ -1,0 +1,10 @@
+token.mat
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Session info
+octave-workspace
+
+# OSX / *nix default autosave extension
+*.m~
